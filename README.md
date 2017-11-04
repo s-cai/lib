@@ -1,2 +1,2 @@
 # lib
-random shit
+Random lib functions
